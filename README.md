@@ -8,9 +8,9 @@
 </h1>
 
 ---
-<h>
+<h1>
  Social Media
-</H1/>
+</h1/>
 
 <div id="badge" align="center">
      <a href="https://t.me/davemak_e1">
