@@ -9,7 +9,7 @@
 
 ---
 <h1>
- Social Media
+ Contacts
 </h1/>
 
 <div id="badge" align="center">
