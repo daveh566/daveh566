@@ -30,8 +30,3 @@ I am an accounting graduate from Egerton university.
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daveh566&layout=compact&theme=vision-friendly-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :woman_technologist: About Me :
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveh566)](https://github.com/anuraghazra/github-readme-stats)
