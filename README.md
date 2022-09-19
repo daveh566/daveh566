@@ -8,7 +8,7 @@
 </h1>
 
 <div id="badges">
-  <a href="t.me/davemak_e1">
+  <a href="https://t.me/davemak_e1">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="f.b.davidmaranga">
