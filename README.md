@@ -8,16 +8,11 @@
 </h1>
 
 
-<div id="badges">
+<div id="badge">
   <a href="https://t.me/davemak_e1">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="f.b.davidmaranga">
-    <img src="https://img.shields.io/badge/Facebook-purple?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
+### :woman_technologist: About Me :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveh566)](https://github.com/anuraghazra/github-readme-stats)
