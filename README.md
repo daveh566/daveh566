@@ -13,6 +13,12 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+</div>="badge">
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 ### :woman_technologist: About Me :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveh566)](https://github.com/anuraghazra/github-readme-stats)
