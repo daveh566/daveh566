@@ -4,7 +4,7 @@
 
 <h1>
   Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://te.legra.ph/file/95b77a2aacd7f32bcfadb.mp4" width="30px"/>
 </h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daveh566)](https://github.com/ryo-ma/github-profile-trophy)
