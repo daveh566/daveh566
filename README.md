@@ -12,13 +12,11 @@
      <a href="https://t.me/davemak_e1">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-
-
+</div>
 
   <a href="https:twitter.com/davemak_e">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
 
 ### :woman_technologist: About Me :
 
