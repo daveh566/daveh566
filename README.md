@@ -7,7 +7,7 @@
 <a href="https://t.me/davemak_e1"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
 <p align="center">
-<a href="https://" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter badge" height="41" width="174"></a>
+<a href="https://twitter.com/DaveMaK_E?t=SQdyW6NQNc7jTM7mxO8qrQ&s=35" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" height="41" width="174"></a>
 </p
 
 
